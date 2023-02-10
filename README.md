@@ -3,6 +3,8 @@
 # Overview of Project 
 Developed an interactive dashboard to analyze and visualize a comprehensive dataset on the microbial composition of human navels. The findings indicated that a limited number of microbial species (designated as operational taxonomic units or OTUs) were widely present in over 70% of participants, while the remainder were less frequent. 
 
+Please visit https://ngirdharry.github.io/ to view/use the interactive visualizations below. 
+
 # Purpose
 Illustrated the diversity of operational taxonomic units in the dataset by creating interactive visualizations using JavaScript, enabling an in-depth examination of the microbial composition of human navels. 
 
@@ -10,6 +12,7 @@ Illustrated the diversity of operational taxonomic units in the dataset by creat
 VS Code and Web browser (Chrome). 
 
 # Data Visualizations 
+Please visit https://ngirdharry.github.io/ to view/use the interactive visualizations. 
 
 Designed and developed a Belly-Button Dashboard to showcase the diversity of operational taxonomic units present in the dataset, providing an interactive and user-friendly platform for exploring the microbial composition of human navels. 
 
